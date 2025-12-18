@@ -2,11 +2,11 @@ local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
     Title = "Vhuu",
-    Text = "Đang khởi động script vui lòng fl kênh không bị bắt xuống hầm🤣",
-    Icon = "rbxassetid://75684118813767",
+    Text = "script Banana",
+    Icon = "756841188137://75684118813767",
     Duration = 6
 })
--- 🍎 Téo scrVN 🇻🇳 Cinematic Intro
+-- Vhuu Cinematic Intro
 local CoreGui = game:GetService("CoreGui")
 
 -- Giao diện chính
@@ -49,11 +49,10 @@ fadeBg:Play()
 task.wait(3.5)
 ScreenGui:Destroy()
 local WindUI =
-loadstring(game:HttpGet("https://raw.githubusercontent.com/teoscrvn/T-ng-h-p-/refs/heads/main/Script%20test%20(1).txt"))()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Teo-script/Anh-hub/refs/heads/main/HoangAnh.lua"))()
 --🔹 Tạo Window
 local Window = WindUI:CreateWindow({
-    Title = "TÉO HUB",
+    Title = "Banana (premium)",
     Size = UDim2.fromOffset(580, 340),
     Theme = "Dark",
     Transparent = true

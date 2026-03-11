@@ -70,7 +70,7 @@ Window = Library:CreateWindow({
     Desc = "- Blox Fruit",
     Image = "rbxassetid://130297704555355"
 })
-
+	["Logo Image"] = "rbxassetid://130297704555355",
 -- ==========================================
 -- TẠO CÁC TABS (ĐÚNG API: AddTab nhận string)
 -- ==========================================

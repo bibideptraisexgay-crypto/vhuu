@@ -2945,14 +2945,14 @@ task.defer(function()
 end)
 Tabs.Info:AddSection("Thông Tin")
 Tabs.Info:AddButton({
-    ["Title"] = "Banana Community",
+    ["Title"] = "Vhuu Community",
     ["Description"] = "Discord",
     ["Callback"] = function()
         setclipboard(tostring("https://dsc.gg/nopermc"))
     end
 })
 Tabs.Info:AddButton({
-    ["Title"] = "Banana Hub",
+    ["Title"] = "Vhuu Hub",
     ["Description"] = "Youtube",
     ["Callback"] = function()
         setclipboard(tostring("https://youtube.com/@nopermc"))
@@ -6382,7 +6382,7 @@ if Sea3 then
             if v663 == nil then
                 break
             end
-            if v664:IsA("MeshPart") and v664.MeshId == "rbxassetid://6745037796" then
+            if v664:IsA("MeshPart") and v664.MeshId == "rbxassetid://130297704555355" then
                 return v664
             end
         end
